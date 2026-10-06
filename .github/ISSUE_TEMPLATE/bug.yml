@@ -1,0 +1,25 @@
+name: Bug
+description: Wrong netting, a settlement problem, or a crash.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Ways to move funds or break settlement are security issues: report them privately (see SECURITY.md in setoff-contracts), not here."
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: Command or call, input (obligations, transaction hash), and output.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      placeholder: setoff version, or the contract ID
