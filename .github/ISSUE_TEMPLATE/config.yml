@@ -3,3 +3,6 @@ contact_links:
   - name: Security report
     url: https://github.com/SetOff-Org/setoff-contracts/security/advisories/new
     about: Report ways to move funds or break settlement privately.
+  - name: Questions
+    url: https://github.com/SetOff-Org/.github/blob/main/SUPPORT.md
+    about: Where to look first, and where to ask.
