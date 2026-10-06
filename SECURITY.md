@@ -4,8 +4,6 @@ This policy covers every SetOff repository without its own. Report
 vulnerabilities privately through the **Security → Report a vulnerability** tab
 of the affected repository, never in a public issue. We aim to acknowledge
 reports within three days.
-[GitHub security advisories](https://github.com/SetOff-Org/setoff-contracts/security/advisories/new),
-not public issues. We aim to acknowledge reports within three days.
 
 In scope, most severe first:
 
