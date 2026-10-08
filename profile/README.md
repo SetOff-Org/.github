@@ -7,6 +7,8 @@
 
 <p align="center"><b>Settle the net, not every payment. Multilateral netting for anchors, payment providers and agents on Stellar.</b></p>
 
+<p align="center"><a href="https://setoff-org.github.io/setoff-engine/"><b>Simulate netting in your browser →</b></a></p>
+
 Participants who owe each other all day shouldn't each pre-fund their entire
 outflow. SetOff collects obligations in windows and settles only net positions.
 On chain, a settlement contract guarantees settlement can never fail: a
